@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/feito%20com-HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/estilizado%20com-CSS3-blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Udemy]([https://img.shields.io/badge/Udemy-Curso%20Completo-blueviolet)](https://www.udemy.com/course/desenvolvimento-web-completo/](https://www.udemy.com/course/web-completo/))
+[![Udemy](https://img.shields.io/badge/Udemy-Curso%20Completo-blueviolet)](https://www.udemy.com/course/web-completo/)
 [![Status](https://img.shields.io/badge/status-Concluído-brightgreen)]()
 
 > Projeto desenvolvido como parte do curso **Desenvolvimento Web Completo - 20 cursos + 20 projetos** da plataforma **Udemy**, com o instrutor **Jorge Sant Ana**.
