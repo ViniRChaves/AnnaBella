@@ -57,7 +57,7 @@ Essas mudanças reforçam o domínio de transições e transformações com CSS3
 ## 🔗 Veja o Projeto no Ar
 
 <p align="center">
-  <a href="https://vinirchaves.github.io/Anna-Bella---Modelo/" target="_blank">
+  <a href="https://vinirchaves.github.io/AnnaBella/" target="_blank">
     <img src="https://img.shields.io/badge/👁️ Ver%20Projeto-Online-green?style=for-the-badge&logo=github" alt="Ver Projeto Online"/>
   </a>
 </p>
